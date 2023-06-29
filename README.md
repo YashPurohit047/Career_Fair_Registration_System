@@ -1,6 +1,6 @@
 # Career_Fair_Registration_System
- I prepared a prototype registration system for EduFair - Career Fair of my School.
- Tech Stack Used - Java(At Front-end),MySQL as DBMS(At Back-End) Development Tools - NetBeans IDE
+- I prepared a prototype registration system for EduFair - Career Fair of my School.
+- Tech Stack Used - Java(At Front-end),MySQL as DBMS(At Back-End) Development Tools - NetBeans IDE
 
 ## Hardware Used:
 While developing the project, the hardware used are:
